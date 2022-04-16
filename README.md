@@ -1,2 +1,2 @@
-# devops_pamati_elanslacis
-DevOps pamati iesācējiem
+# DevOps repozitorijs
+Elana Lāča DevOps repozitorijs pamati iesācējiem
